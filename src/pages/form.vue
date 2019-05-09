@@ -23,7 +23,8 @@ export default {
   data () {
     return {
       lsProdutos: [],
-      lista1: []
+      lista1: [],
+      lsLista2: []
     }
   },
 
